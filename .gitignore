@@ -1,8 +1,8 @@
 input.txt
 output.txt
-HR_SimpleArraySum.exe
-HR_SimpleArraySum.obj
-HR_SimpleArraySum.pdb
-HR_SimpleArraySum.ilk
+*.exe
+*.obj
+*.pdb
+*.ilk
 vc140.pdb
 
